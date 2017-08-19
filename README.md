@@ -4,7 +4,6 @@ Coil winder project
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Coil Winder</title>
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
